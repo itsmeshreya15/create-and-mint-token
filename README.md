@@ -64,7 +64,7 @@ Click on the "Solidity Compiler" tab in the left-hand sidebar. Ensure the "Compi
 Deploy the Contract:
 Click on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "ShreyaToken" contract from the dropdown menu. Click on the "Deploy" button. Interact with the Contract:
 
-Minting Tokens: Upon deployment, 100 SHL tokens are minted to the contract address. 
+Minting Tokens: Upon deployment, 100 SHK tokens are minted to the contract address. 
 Creating Tokens: Call the createTokens function with the recipient address and quantity to transfer tokens from the contract address to the recipient. 
 This can only be done by the admin. Destroying Tokens: Call the destroyTokens function with the amount to burn tokens from the caller's address.
 
